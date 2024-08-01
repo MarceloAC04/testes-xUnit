@@ -1,0 +1,15 @@
+C:\Users\48260449846\Desktop\testes-xUnit\GerenciadorLivros\bin\Debug\net8.0\GerenciadorLivros.exe
+C:\Users\48260449846\Desktop\testes-xUnit\GerenciadorLivros\bin\Debug\net8.0\GerenciadorLivros.deps.json
+C:\Users\48260449846\Desktop\testes-xUnit\GerenciadorLivros\bin\Debug\net8.0\GerenciadorLivros.runtimeconfig.json
+C:\Users\48260449846\Desktop\testes-xUnit\GerenciadorLivros\bin\Debug\net8.0\GerenciadorLivros.dll
+C:\Users\48260449846\Desktop\testes-xUnit\GerenciadorLivros\bin\Debug\net8.0\GerenciadorLivros.pdb
+C:\Users\48260449846\Desktop\testes-xUnit\GerenciadorLivros\obj\Debug\net8.0\GerenciadorLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48260449846\Desktop\testes-xUnit\GerenciadorLivros\obj\Debug\net8.0\GerenciadorLivros.AssemblyInfoInputs.cache
+C:\Users\48260449846\Desktop\testes-xUnit\GerenciadorLivros\obj\Debug\net8.0\GerenciadorLivros.AssemblyInfo.cs
+C:\Users\48260449846\Desktop\testes-xUnit\GerenciadorLivros\obj\Debug\net8.0\GerenciadorLivros.csproj.CoreCompileInputs.cache
+C:\Users\48260449846\Desktop\testes-xUnit\GerenciadorLivros\obj\Debug\net8.0\GerenciadorLivros.sourcelink.json
+C:\Users\48260449846\Desktop\testes-xUnit\GerenciadorLivros\obj\Debug\net8.0\GerenciadorLivros.dll
+C:\Users\48260449846\Desktop\testes-xUnit\GerenciadorLivros\obj\Debug\net8.0\refint\GerenciadorLivros.dll
+C:\Users\48260449846\Desktop\testes-xUnit\GerenciadorLivros\obj\Debug\net8.0\GerenciadorLivros.pdb
+C:\Users\48260449846\Desktop\testes-xUnit\GerenciadorLivros\obj\Debug\net8.0\GerenciadorLivros.genruntimeconfig.cache
+C:\Users\48260449846\Desktop\testes-xUnit\GerenciadorLivros\obj\Debug\net8.0\ref\GerenciadorLivros.dll

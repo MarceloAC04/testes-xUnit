@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\48260449846\\Desktop\\testes-xUnit\\Calculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82A73404-72FE-4345-937A-8D32C3308ACC}|..\\Calculos.Test\\Calculos.Test.csproj|c:\\users\\48260449846\\desktop\\testes-xunit\\calculos.test\\calculounittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4428BEC9-715C-4B8F-916C-509F8863DCCA}|Calculos.csproj|c:\\users\\48260449846\\desktop\\testes-xunit\\calculos\\calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4428BEC9-715C-4B8F-916C-509F8863DCCA}|Calculos.csproj|solutionrelative:calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculoUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\testes-xUnit\\Calculos.Test\\CalculoUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\Calculos.Test\\CalculoUnitTest.cs",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\testes-xUnit\\Calculos.Test\\CalculoUnitTest.cs",
+              "RelativeToolTip": "..\\Calculos.Test\\CalculoUnitTest.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwDYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:07:56.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculo.cs",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\testes-xUnit\\Calculos\\Calculo.cs",
+              "RelativeDocumentMoniker": "Calculo.cs",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\testes-xUnit\\Calculos\\Calculo.cs",
+              "RelativeToolTip": "Calculo.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:55:03.596Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
