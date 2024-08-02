@@ -18,9 +18,9 @@ namespace GerenciadorLivro.Test
             livro.autor = "J.R.R Tolkien";;
 
             Gerenciador.Adicionar(livro);
-            var resultado = Gerenciador.colecao;
+            var resultado = Gerenciador.Adicionados();
 
-            Assert.NotEqual(resultado, null);
+            Assert.Contains(livro, resultado);
         }
     }
 }

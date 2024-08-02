@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciadorLivro.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53c95479112b0c3183c01b705ba6544b4fcb486d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd57bc8112334cc2101347bae4afb0c51745b166")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciadorLivro.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciadorLivro.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

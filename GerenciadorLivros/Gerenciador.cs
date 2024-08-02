@@ -8,13 +8,17 @@ namespace GerenciadorLivros
 {
     public static class Gerenciador
     {
-        public static List<Livro>? colecao { get; set; }
+        public static List<Livro>? colecao = new List<Livro>();
 
-        public static List<Livro> Adicionar(Livro novoLivro)
+        public static void Adicionar(Livro novoLivro)
         { 
             colecao?.Add(novoLivro);
 
-            return colecao!;
+        }
+
+        public static List<Livro> Adicionados()
+        {
+            return new List<Livro>(colecao!); 
         }
     }
 }

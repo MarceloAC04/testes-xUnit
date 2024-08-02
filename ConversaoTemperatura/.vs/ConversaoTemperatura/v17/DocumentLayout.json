@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\48260449846\\Desktop\\testes-xUnit\\ConversaoTemperatura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DDBDA8-07FC-4921-9012-A6A16C08586C}|..\\ConversaoTemperatura.Test\\ConversaoTemperatura.Test.csproj|c:\\users\\48260449846\\desktop\\testes-xunit\\conversaotemperatura.test\\temperaturatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3959F0-2311-40E7-8476-17ACEBD98C9A}|ConversaoTemperatura.csproj|c:\\users\\48260449846\\desktop\\testes-xunit\\conversaotemperatura\\temperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3959F0-2311-40E7-8476-17ACEBD98C9A}|ConversaoTemperatura.csproj|solutionrelative:temperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3959F0-2311-40E7-8476-17ACEBD98C9A}|ConversaoTemperatura.csproj|c:\\users\\48260449846\\desktop\\testes-xunit\\conversaotemperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3959F0-2311-40E7-8476-17ACEBD98C9A}|ConversaoTemperatura.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TemperaturaTest.cs",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\testes-xUnit\\ConversaoTemperatura.Test\\TemperaturaTest.cs",
+              "RelativeDocumentMoniker": "..\\ConversaoTemperatura.Test\\TemperaturaTest.cs",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\testes-xUnit\\ConversaoTemperatura.Test\\TemperaturaTest.cs",
+              "RelativeToolTip": "..\\ConversaoTemperatura.Test\\TemperaturaTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:35:05.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Temperatura.cs",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\testes-xUnit\\ConversaoTemperatura\\Temperatura.cs",
+              "RelativeDocumentMoniker": "Temperatura.cs",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\testes-xUnit\\ConversaoTemperatura\\Temperatura.cs",
+              "RelativeToolTip": "Temperatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:33:23.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\testes-xUnit\\ConversaoTemperatura\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\testes-xUnit\\ConversaoTemperatura\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:33:02.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
