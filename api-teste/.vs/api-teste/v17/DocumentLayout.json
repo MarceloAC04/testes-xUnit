@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\48260449846\\Desktop\\testes-xUnit\\api-teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42D00EA0-1E36-47E9-B3E5-477914EE024D}|api-teste.csproj|c:\\users\\48260449846\\desktop\\testes-xunit\\api-teste\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D00EA0-1E36-47E9-B3E5-477914EE024D}|api-teste.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D00EA0-1E36-47E9-B3E5-477914EE024D}|api-teste.csproj|c:\\users\\48260449846\\desktop\\testes-xunit\\api-teste\\domains\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D00EA0-1E36-47E9-B3E5-477914EE024D}|api-teste.csproj|solutionrelative:domains\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\testes-xUnit\\api-teste\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\testes-xUnit\\api-teste\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:34:31.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\testes-xUnit\\api-teste\\Domains\\Products.cs",
+              "RelativeDocumentMoniker": "Domains\\Products.cs",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\testes-xUnit\\api-teste\\Domains\\Products.cs",
+              "RelativeToolTip": "Domains\\Products.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:28:57.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
