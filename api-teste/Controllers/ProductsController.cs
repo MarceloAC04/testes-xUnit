@@ -64,5 +64,38 @@ namespace api_teste.Controllers
             }
         }
 
+        [HttpDelete("Id")]
+        public IActionResult DeletarProduto(Guid id)
+        {
+            try
+            {
+                _productsRepository.Deletar(id);
+
+                return StatusCode(201);
+
+            }
+            catch (Exception e)
+            {
+
+                return BadRequest(e.Message);
+            }
+        }
+
+        [HttpPut("Id")]
+        public IActionResult AtualizarProduto(Guid id, Products produto)
+        {
+            try
+            {
+                _productsRepository.Atualizar(id, produto);
+
+                return StatusCode(201);
+            }
+            catch (Exception e)
+            {
+
+                return BadRequest(e.Message);
+            }
+        }
+
     }
 }

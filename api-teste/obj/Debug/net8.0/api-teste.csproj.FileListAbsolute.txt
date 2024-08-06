@@ -141,3 +141,5 @@ C:\Users\48260449846\Desktop\testes-xUnit\api-teste\obj\Debug\net8.0\refint\api-
 C:\Users\48260449846\Desktop\testes-xUnit\api-teste\obj\Debug\net8.0\api-teste.pdb
 C:\Users\48260449846\Desktop\testes-xUnit\api-teste\obj\Debug\net8.0\api-teste.genruntimeconfig.cache
 C:\Users\48260449846\Desktop\testes-xUnit\api-teste\obj\Debug\net8.0\ref\api-teste.dll
+C:\Users\48260449846\Desktop\testes-xUnit\api-teste\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\48260449846\Desktop\testes-xUnit\api-teste\bin\Debug\net8.0\Moq.dll
