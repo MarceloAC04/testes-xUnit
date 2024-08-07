@@ -114,7 +114,29 @@ namespace TesteApiXUnit.Test
                 new Products {IdProduct = Guid.NewGuid(), Name = "Rtx 4080", Price = 700}
             };
 
-  
+            var updatedProduct = new Products { IdProduct = Guid.NewGuid(), Name = "Rtx 4090", Price = 800 };
+
+            var produtoBuscado = products[2];
+            var mockRepository = new Mock<IProductsRepository>();
+
+            mockRepository.Setup(x => x.Atualizar(produtoBuscado.IdProduct, produtoBuscado)).Callback<Guid, Products>((id, prod) => 
+            {
+                var productUpdate = products.Find(p => p.IdProduct == id);
+
+                if (productUpdate != null)
+                {
+                    productUpdate.Name = updatedProduct.Name;
+                    productUpdate.Price = updatedProduct.Price;
+                }
+
+            });
+
+            //Act
+            mockRepository.Object.Atualizar(produtoBuscado.IdProduct, produtoBuscado);
+
+            //Assert
+            Assert.Equal(800, products[2].Price);
+            Assert.Equal("Rtx 4090", products[2].Name);
 
 
         }
